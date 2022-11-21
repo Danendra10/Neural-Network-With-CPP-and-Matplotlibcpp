@@ -1,0 +1,3 @@
+repository='https://github.com/lava/matplotlib-cpp.git'
+module=''
+tag='origin'

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/4L.dir/src/4L/main.cpp.o  -o 4L  /usr/lib/x86_64-linux-gnu/libpython3.8.so 

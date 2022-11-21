@@ -1,0 +1,5 @@
+/home/dancoeks/Kuliah/DSEC/NN/build/CMakeFiles/rebuild_cache.dir
+/home/dancoeks/Kuliah/DSEC/NN/build/CMakeFiles/edit_cache.dir
+/home/dancoeks/Kuliah/DSEC/NN/build/CMakeFiles/4L.dir
+/home/dancoeks/Kuliah/DSEC/NN/build/CMakeFiles/3L.dir
+/home/dancoeks/Kuliah/DSEC/NN/build/CMakeFiles/5L.dir
